@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/simple.dir/example/simple/simple.cpp.o  -o ../example/simple/simple ../lib/libOpenTimer.a -lstdc++fs -lpthread 

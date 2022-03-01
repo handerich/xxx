@@ -1,0 +1,3 @@
+/home/hcx/Codes/helloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/hcx/Codes/helloWorld/build/CMakeFiles/helloworld_cmake.dir
+/home/hcx/Codes/helloWorld/build/CMakeFiles/edit_cache.dir
